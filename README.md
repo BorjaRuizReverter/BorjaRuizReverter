@@ -1,6 +1,13 @@
 ### Hi there 👋
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaRuizReverter&layout=compact&langs_count=7&theme=algolia
+<!--
+
+<div align="center">
+  <a href="https://github.com/BorjaRuizReverter">
+  <img height="180em" width="400cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaRuizReverter&layout=compact&langs_count=7&theme=algolia"/>
+</div>
+
+-->
 
 <!--
 **BorjaRuizReverter/BorjaRuizReverter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
