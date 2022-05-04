@@ -4,7 +4,7 @@ This is my personal repository, just to introduce myself.
 
 I work as a Physics professor, but in my spare time I explore data series (using Python and R mostly). Also, I like to build apps (using Dart) and responsive websites (using React). Building dapps is my next step. ⚡
 
-Here below is some of my Github stats.
+These are my Github stats.
 
 <div align="center">
   <a href="https://github.com/BorjaRuizReverter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaRuizReverter&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Language&layout=compact&exclude_repo=SentimentAnalysisTeste" alt="Top Languages" /></a>
