@@ -13,6 +13,6 @@ These are my Github stats.
 
 <a href="http://www.github.com/BorjaRuizReverter"><img src="https://github-readme-streak-stats.herokuapp.com/?user=BorjaRuizReverter&stroke=ffffff&background=0f172a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/BorjaRuizReverter"><img src="https://activity-graph.herokuapp.com/graph?username=BorjaRuizReverter&bg_color=0f172a&color=ffffff&line=0891b2&point=ffffff&area_color=0f172a&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<a href="http://www.github.com/BorjaRuizReverter"><img src="" alt="GitHub Commits Graph" /></a>
   
 </div>
