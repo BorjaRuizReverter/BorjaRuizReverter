@@ -7,7 +7,7 @@ I work as a Physics professor, but in my spare time I explore data series (using
 These are my Github stats.
 
 <div align="center">
-<a href="https://github.com/BorjaRuizReverter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaRuizReverter&langs_count=10&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&exclude_repo=SentimentAnalysisTeste" alt="Top Languages" /></a>
+<a href="https://github.com/BorjaRuizReverter" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BorjaRuizReverter&langs_count=6&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=compact&exclude_repo=SentimentAnalysisTeste" alt="Top Languages" /></a>
 
 <!-- <a href="http://www.github.com/BorjaRuizReverter"><img src="https://github-readme-stats.vercel.app/api?username=BorjaRuizReverter&show_icons=true&hide=&count_private=true&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="BorjaRuizReverter's GitHub stats" /></a> -->
 
