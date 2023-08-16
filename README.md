@@ -2,7 +2,7 @@
 
 This is my personal repository, just to introduce myself.
 
-I work as a Physics professor, but in my spare time I explore data series (using Python and R mostly). Also, I like building apps (using Dart) and responsive websites (using React). Building dapps is my next step. ⚡
+I work as a Physics professor and as a data scientist and ML engineer at prossima.art (using Python and R mostly). I like scraping data for data mining and also like building apps (using Dart) and responsive websites (using React).⚡
 
 These are my Github stats.
 
