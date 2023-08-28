@@ -2,7 +2,7 @@
 
 This is my personal repository, just to introduce myself.
 
-I work as a Physics professor and as a data scientist and ML engineer at prossima.art (using Python and R mostly). I like scraping data for data mining and also like building apps (using Dart) and responsive websites (using React).⚡
+I work as a Physics professor and as a data scientist and ML engineer at prossima.art (using Python and R mostly). During my spare time, I like collecting data for datamining in a consensual way (via API) or not that consensually (via datascraping). I also like building responsive websites (using React) and apps (using Dart).⚡
 
 These are my Github stats.
 
